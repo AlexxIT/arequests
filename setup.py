@@ -1,10 +1,8 @@
 from distutils.core import setup
 
-from arequests import __version__
-
 setup(
     name='arequests',
-    version=__version__,
+    version='0.1.2',
     description="Async wrapper for requests library",
     author="Alexey Khit",
     install_requires=['aiohttp'],
