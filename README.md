@@ -2,6 +2,10 @@
 
 ## Changelog
 
+### 0.1.3 - 2019-05-03
+
+- Add `fake` option for fake `User-Agent` and `Referer`
+
 ### 0.1.2 - 2019-04-20
 
 - Rename `body` to `content`
